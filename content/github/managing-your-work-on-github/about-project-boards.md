@@ -1,3 +1,7 @@
+Uiuhu
+Jj
+
+
 ---
 title: About project boards
 intro: 'Project boards on {% data variables.product.product_name %} help you organize and prioritize your work. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists. With project boards, you have the flexibility to create customized workflows that suit your needs.'
@@ -44,7 +48,7 @@ You can also [disable project boards in a repository](/articles/disabling-projec
 You can use templates to quickly set up a new project board. When you use a template to create a project board, your new board will include columns as well as cards with tips for using project boards. You can also choose a template with automation already configured.
 
 | Template | Description |
-| --- | --- |
+| --- | --- |Нажмите на фрагмент, чтобы вставить его в текстовое поле.
 | Basic kanban | Track your tasks with To do, In progress, and Done columns |
 | Automated kanban | Cards automatically move between To do, In progress, and Done columns | 
 | Automated kanban with review | Cards automatically move between To do, In progress, and Done columns, with additional triggers for pull request review status |
